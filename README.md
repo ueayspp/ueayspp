@@ -6,7 +6,6 @@
 - 📫 How to reach me: Supapen.K@hotmail.com
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ueayspp&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ueayspp&layout=compact"/>
 
 <!---
