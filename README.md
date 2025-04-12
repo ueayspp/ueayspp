@@ -1,8 +1,8 @@
 ```
 - 👋 Hi, I’m @ueayspp
-- 🪷 I'm a graduate student majoring in Computer Science at Chulalongkorn University 
-- 👀 I’m interested in Web Development, UI/UX Design, and Machine Learning
-- 🌱 I’m currently learning Full Stack Development
+- 🪷 I'm a passionate front-end developer 
+- 👀 I’m interested in Web Development and UI/UX Design
+- 🌱 I’m currently learning Full Stack Web Development and Adobe Experience Manager
 - 📫 How to reach me: Supapen.K@hotmail.com
 ```
 
